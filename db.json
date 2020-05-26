@@ -1,0 +1,32 @@
+{
+  "users" : [
+    {
+      "id" : "1",
+      "name" : "User1",
+      "points_earned" : 862,
+      "points_spent" : 345553,
+      "register_date" : "2014-01-13"
+    },
+    {
+      "id" : "2",
+      "name" : "User2",
+      "points_earned" : 4212,
+      "points_spent" : 43423,
+      "register_date" : "2014-02-13"
+    },
+    {
+      "id" : "3",
+      "name" : "User3",
+      "points_earned" : 432,
+      "points_spent" : 5632,
+      "register_date" : "2013-01-13"
+    },
+    {
+      "id" : "4",
+      "name" : "User4",
+      "points_earned" : 3532,
+      "points_spent" : 13221,
+      "register_date" : "2016-01-13"
+    }
+  ]
+}
