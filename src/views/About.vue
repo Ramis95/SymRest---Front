@@ -2,6 +2,7 @@
     <div class="info">
         <h1>Main info</h1>
         <div class="block">
+            123123123
         </div>
 
 
